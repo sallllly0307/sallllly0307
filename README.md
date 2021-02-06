@@ -1,4 +1,4 @@
-### Hi there 👋
+# Sara Aoki
 <!--
 - 🔭 I’m currently working on ... HERP inc.
 - 🌱 I’m currently learning ... Design
@@ -10,3 +10,4 @@
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=sallllly0307&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sallllly0307&count_private=true&hide=jupyter%20notebook,html&layout=compact&theme=dracula)
